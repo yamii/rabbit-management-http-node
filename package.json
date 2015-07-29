@@ -1,0 +1,19 @@
+{
+  "name": "rabbit-management-http-node",
+  "version": "1.0.0",
+  "description": "HTTP wrapper for rabbit management HTTP API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miriam Mae Iglesia",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^2.9.34",
+    "cli-table": "^0.3.1",
+    "color": "^0.10.1",
+    "colors": "^1.1.2",
+    "request": "^2.60.0"
+  },
+  "devDependencies": {}
+}
